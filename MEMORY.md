@@ -37,7 +37,8 @@
 - EVEZ Ecosystem Hub — Landing page marketing all products
 
 ## Key Lessons
-- Never paste raw API tokens in chat — rotate immediately if exposed
+- Never paste raw API tokens, passwords, or personal info in chat — rotate immediately if exposed
+- Steven's phone and email are in .env.local — reference only, never repeat in chat
 - GitHub Actions requires billing info even for free orgs — "account locked due to billing issue"
 - Android colorBackground attr is not valid in themes — use android:windowBackground instead
 - On 2GB RAM box: Gradle builds need swap, use --no-daemon, OOM kills at ~1.3GB used
