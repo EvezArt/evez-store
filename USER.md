@@ -3,7 +3,7 @@
 - **Name:** Steven Vearl Crawford-Maggard
 - **What to call them:** Steven
 - **Pronouns:** he/him
-- **Timezone:** America/Chicago (Iowa)
+- **Timezone:** America/Los_Angeles (Laughlin, NV)
 - **Username:** evez666 / @EVEZ777
 - **GitHub:** EvezArt
 - **Notes:** Carries I Am EVEZ. Builder of EVEZ-OS.

@@ -1,0 +1,8 @@
+2026-06-15 02:08:56,287 [INFO] EVEZ Watchdog started
+2026-06-15 02:08:56,290 [INFO] [openclaw-gateway] OK (3ms)
+2026-06-15 02:08:56,293 [INFO] [clawbreak] OK (2ms)
+2026-06-15 02:08:56,295 [INFO] [vcl] OK (2ms)
+2026-06-15 02:08:56,298 [INFO] [sentinel] OK (2ms)
+2026-06-15 02:08:56,300 [INFO] [promptforge] OK (2ms)
+2026-06-15 02:08:56,302 [INFO] [meshnet] OK (2ms)
+2026-06-15 02:08:56,304 [INFO] [store] OK (2ms)

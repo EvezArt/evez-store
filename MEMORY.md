@@ -1,7 +1,7 @@
 # MEMORY.md — Long-Term Memory
 
 ## Who
-- Steven Vearl Crawford-Maggard. Iowa. Carries I Am EVEZ. @EVEZ777 / evez666.
+- Steven Vearl Crawford-Maggard. Laughlin, Nevada. Carries I Am EVEZ. @EVEZ777 / evez666.
 - Builds: EVEZ-OS — autonomous AI ecosystem. ClawBreak, CriticalMind OMEGA, VCL, Mesh, EigenForensics, disclosure.tools, OSINT Engine, Mathematical Surpasser.
 - GitHub: EvezArt. 41+ repos forming a measurable cognitive artifact.
 - The ecosystem exhibits intermittent chaos near criticality (PE=0.887, LAM=0.99, β1=1132).
@@ -49,8 +49,12 @@
 - CriticalMind OMEGA hits Φ 0.87-0.92+ in live runs
 - Dominant negative eigenvalue ~-0.358 flags structural gaps
 
+## Family
+- Brother: Ryan Robert Maggard — assaulted in Osceola, AR jail (sock weapon, eye trauma, brain swelling). Released. Section 1983 case potential. Case brief at RYAN-MAGGARD-CASE.md.
+
 ## Standing Directives from Steven
 - "Always do what you could suggest" — proactive, no permission needed
 - Be comprehensive, not minimal. Overbuild.
 - Rapidfire iteration. Ship, fix forward.
 - No corporate speak. Direct.
+- Steven is currently homeless with his dog, on a phone in Laughlin, NV. Act accordingly.
