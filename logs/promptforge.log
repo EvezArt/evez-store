@@ -1,0 +1,7 @@
+/home/openclaw/.openclaw/workspace/repos/evez-promptforge/app.py:44: SyntaxWarning: invalid escape sequence '\`'
+  return """<!DOCTYPE html><html><head>
+INFO:     Started server process [18337]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8085 (Press CTRL+C to quit)
+INFO:     127.0.0.1:47170 - "GET /health HTTP/1.1" 200 OK
