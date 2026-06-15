@@ -1,35 +1,13 @@
-INFO:     Started server process [20169]
+INFO:     Started server process [34178]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:8091 (Press CTRL+C to quit)
-INFO:     127.0.0.1:56594 - "GET /health HTTP/1.1" 200 OK
-INFO:     66.42.125.106:0 - "GET / HTTP/1.1" 200 OK
-INFO:     127.0.0.1:44036 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:35100 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:41270 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:59962 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:56662 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:51452 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:36192 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:47054 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:46762 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:54708 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:59894 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:52874 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:38474 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:44234 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:44244 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:60802 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:44416 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:57726 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:57560 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:41722 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:40478 - "GET / HTTP/1.1" 200 OK
-INFO:     127.0.0.1:40488 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:42970 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:58588 - "GET /health HTTP/1.1" 200 OK
-INFO:     66.42.125.106:0 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     127.0.0.1:36748 - "GET /health HTTP/1.1" 200 OK
-INFO:     66.42.125.106:0 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     127.0.0.1:38748 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:50032 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39092 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39102 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33998 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46170 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55376 - "GET /health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [34178]

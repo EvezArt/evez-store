@@ -10,3 +10,4 @@ __pycache__/
 .env
 *.log
 node_modules/
+repos/.github
